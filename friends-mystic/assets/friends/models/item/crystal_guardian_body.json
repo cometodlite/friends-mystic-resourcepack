@@ -1,0 +1,15 @@
+{
+  "textures": {
+    "layer0": "friends:item/crystal_guardian_body"
+  },
+  "elements": [
+    {
+      "from": [-4, 0, 8],
+      "to": [20, 32, 8],
+      "faces": {
+        "north": { "uv": [0, 0, 24, 32], "texture": "#layer0" },
+        "south": { "uv": [24, 0, 0, 32], "texture": "#layer0" }
+      }
+    }
+  ]
+}
